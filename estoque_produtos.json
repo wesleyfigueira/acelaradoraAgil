@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nome": "celular",
+        "categoria": "eletronico",
+        "quantidade": 300,
+        "preco": 2000.52
+    },
+    {
+        "id": 2,
+        "nome": "computador",
+        "categoria": "eletronico",
+        "quantidade": 200,
+        "preco": 5050.3
+    }
+]
